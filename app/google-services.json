@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969753446028",
+    "firebase_url": "https://good-morning-flowers-82371-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "good-morning-flowers-82371",
+    "storage_bucket": "good-morning-flowers-82371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969753446028:android:17840e337913e3dc551da9",
+        "android_client_info": {
+          "package_name": "com.fungamingtips.goodmorningflowers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969753446028-hbfenga21quag1fhurmqqct9dgj0sdnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7elUvX7q9J0fSkniCA1JRzGjnpED8_hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969753446028-hbfenga21quag1fhurmqqct9dgj0sdnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
