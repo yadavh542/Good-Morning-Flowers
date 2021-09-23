@@ -2,5 +2,7 @@
     <string name="app_name">Good Morning Flowers</string>
 
     <string name="todo">TODO</string>
-    <string name="apply">Apply</string>
+    <string name="apply">Set as Wallpaper</string>
+    <string name="share">share</string>
+    <string name="Download">Download</string>
 </resources>
